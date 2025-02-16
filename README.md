@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pattycoder01
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on [not specified]
 - 📫 How to reach me [not specified]
 - 😄 Pronouns: he/him
